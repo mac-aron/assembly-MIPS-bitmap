@@ -7,7 +7,7 @@
 3. Open `master.asm` in MARS
 4. Click on *Assemble the current file and clear breakpoint* (tools button)
 5. Go to *Tools* in the menu and select *Bitmap Display*
-6. Press *Connect to MIPS*
+6. In the Bitmap Display window click on *Connect to MIPS*
 7. Click on *Run the current program* (green play button)
 8. Follow the instructions in the `Run I/O` window, and use the command line to input numbers 1-5 to set instructions
 
