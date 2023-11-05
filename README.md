@@ -12,6 +12,3 @@
 8. Follow the instructions in the `Run I/O` window, and use the command line to input numbers 1-5 to set instructions
 
 For further details on the UI in the `Run I/O` window please refer to the `self-report.pdf`, where is more information on the specific design choices, and self reflections on the entire project. 
-
-## Project description
-
